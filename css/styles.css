@@ -18,7 +18,7 @@ body {
 
 .jumbotron {
   text-align: center;
-  padding: 40px;
+  padding: 20px;
 	border-radius: 10px;
 	background-color: white;
 }
@@ -71,4 +71,32 @@ body {
 	}
 	.info{
 		text-align: justify;
+	}
+	.bruh{
+
+		padding: 1px;
+		text-align: center;
+		background-color: black;
+		text-decoration-color: white;
+		font-size: 5px;
+		float: bottom;
+	}
+	footer {
+		text-align: center;
+		font-size:small;
+		padding:0;
+		background-color: #191919;
+		border-radius: 5px;
+		width: 100%
+		position: bottom;
+		margin:0;
+		border:0;
+		pull
+
+	}
+	.bruhh{
+		color: silver;
+	}
+	.yobro{
+		width 100%;
 	}
