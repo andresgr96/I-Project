@@ -19,6 +19,8 @@ body {
 .jumbotron {
   text-align: center;
   padding: 40px;
+	border-radius: 10px;
+	background-color: white;
 }
 
 /* Glyphicons
@@ -63,4 +65,10 @@ body {
 	.item{
 	  height: 600px;
 	  width: 100%;
+	}
+	h2{
+		text-align: center;
+	}
+	.info{
+		text-align: justify;
 	}
