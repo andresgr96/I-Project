@@ -83,19 +83,17 @@ body {
 	}
 	footer {
 		text-align: center;
-		font-size:small;
+
 		padding:0;
 		background-color: #191919;
 		border-radius: 5px;
-		width: 100%
-		position: bottom;
 		margin:0;
 		border:0;
-		pull
 
 	}
 	.bruhh{
 		color: silver;
+		font-size:small;
 	}
 	.yobro{
 		width 100%;
